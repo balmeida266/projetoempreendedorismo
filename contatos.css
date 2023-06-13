@@ -1,0 +1,107 @@
+
+body p,
+body .field-name-body ul {
+    font-family: Roboto, sans-serif;
+    font-weight: 600;
+    font-size: 14.5px;
+    line-height: 25px;
+    color: black;
+    text-align: justify;
+}
+
+body {
+    background-color: rgb(255, 255, 255)
+}
+
+.header {
+    padding: 5px;
+}
+
+h1 {
+    text-align: left;
+    margin-top: 150px;
+}
+
+.h3 {
+    text-align: left;
+    margin-top: 80px;
+}
+
+.allBox {
+    border: 1px solid;
+    max-width: 165px;
+    display: inline-block;
+    width: 100%;
+}
+
+.secao-1, .secao-2, .secao-3, .secao-4 {
+    margin-top: 80px;
+    margin-left: 160px;
+    text-shadow: #000;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 100px;
+
+}
+
+.secao-5{
+    margin-top: 100px;
+}
+
+/* .secao-2 {
+    margin-top: 50px;
+    text-shadow: #000;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 100px;
+
+}
+
+.secao-3 {
+
+    margin-top: 50px;
+    text-shadow: #000;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    border-radius: 100px;
+
+
+} */
+
+/* .secao-4 {
+    margin-top: 100px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 100px;
+} */
+
+
+.links {
+    display: inline;
+    margin-left: 500px;
+}
+
+.links a {
+    margin-left: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.span-1,
+.span-2 {
+    font-weight: bold;
+    font-size: x-large;
+    color: #000;
+}
+
+.span-1 {
+    color: hsl(0, 0%, 0%);
+    padding: 0% 0% 0% 8%;
+}
+
+.span-2 {
+    color: hsl(0, 0%, 0%);
+}

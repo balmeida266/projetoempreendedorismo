@@ -1,0 +1,41 @@
+body p, body .field-name-body ul {
+    font-family: Roboto,sans-serif;
+    font-weight: 600;
+    font-size: 14.5px;
+    line-height: 25px;
+    color: black;
+    text-align: justify;
+} body {
+    background-color: rgb(255, 255, 255)
+}
+
+.header {
+    padding: 5px;
+}
+
+.links {
+    display: inline;
+    margin-left: 800px;
+}
+
+.links a{
+    margin-left: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+.span-1 , .span-2{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.span-1 {
+    color: hsl(0, 0%, 0%);
+    padding: 0% 0% 0% 8%;
+}
+
+.span-2 {
+    color: hsl(0, 0%, 0%);
+}
